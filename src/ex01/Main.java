@@ -6,6 +6,7 @@ public class Main {
 		System.out.println("Hello Git");
 		System.out.println("Test1");
 		System.out.println("팀원이 작업한 게시물 1");
+		System.out.println("팀원이 작업한 게시물 2");
 		System.out.println("Test2");
 	}
 
